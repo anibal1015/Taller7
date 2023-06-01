@@ -1,0 +1,45 @@
+/* Estilos personalizados para el formulario de registro */
+
+body {
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    background-color: #f5f5f5;
+}
+
+.form-signing {
+    width: 100%;
+    max-width: 400px;
+    padding: 15px;
+    margin: auto;
+    background-color: #fff;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+
+.form-signing .mb-4 {
+    margin-bottom: 1.5rem;
+}
+
+.form-signing .text-secondary {
+    color: #6c757d;
+}
+
+.form-signing .h5 {
+    margin-bottom: 0.5rem;
+}
+
+.form-signing .form-floating {
+    margin-bottom: 1.5rem;
+}
+
+.form-signing .form-floating input {
+    height: auto;
+}
+
+.form-signing .btn-primary {
+    margin-top: 1.5rem;
+}
+
+#register {
+    margin-top: 1rem;
+}
